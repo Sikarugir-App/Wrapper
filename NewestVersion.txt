@@ -1,1 +1,1 @@
-Template-1.0.11
+Template-1.0.12
